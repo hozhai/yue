@@ -1,0 +1,20 @@
+{
+  "luau-lsp.fflags.override": {
+    "LuauTarjanChildLimit": "0",
+    "LuauTypeInferIterationLimit": "0"
+  },
+  "luau-lsp.inlayHints.variableTypes": false,
+  "luau-lsp.inlayHints.functionReturnTypes": false,
+  "luau-lsp.inlayHints.parameterNames": "none",
+  "luau-lsp.types.definitionFiles": {
+    "@zune": "/Users/kai/.zune/typedefs/global/zune.d.luau"
+  },
+  "luau-lsp.types.documentationFiles": [
+    "/Users/kai/.zune/typedefs/global/zune.d.json"
+  ],
+  "luau-lsp.inlayHints.parameterTypes": false,
+  "editor.formatOnSave": true,
+  "luau-lsp.inlayHints.typeHintMaxLength": 50,
+  "luau-lsp.sourcemap.enabled": false,
+  "luau-lsp.sourcemap.autogenerate": false
+}
