@@ -1,1 +1,1 @@
-zune run ./src/init.luau
+lune run ./src/init.luau
